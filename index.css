@@ -96,7 +96,7 @@ a {
 }
 
 .card-image {
-    background-image: url(/-FrontEndMentor-stats-preview-card-component/images/image-header-mobile.jpg);
+    background-image: url(./images/image-header-mobile.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -140,7 +140,7 @@ a {
     }
 
     .card-image {
-        background-image: url(/-FrontEndMentor-stats-preview-card-component/images/image-header-desktop.jpg);
+        background-image: url(./images/image-header-desktop.jpg);
         height: 50vh;
     }
 
